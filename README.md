@@ -1,3 +1,8 @@
+## 🌐 Live Demo
+
+🚀 **Try the AI Skin Cancer Classification App:**
+
+[Click Here to Open Live App](https://f4bsf7odu8rqc7egfubhcq.streamlit.app/)
 # 🔬 AI Skin Cancer Classification
 
 ### CNN-Based Skin Lesion Image Classification
